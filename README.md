@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💼 Trabalhando como **Estagiário** na <a href="https://www.portodesantos.com.br/">Santos Port Authority</a>
+- 💼 Working as an **Intern** at <a href="https://www.portodesantos.com.br/">Santos Port Authority</a>
 
 - ⚡ Fun fact **I try to be funny :)**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -27,7 +27,7 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -38,7 +38,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -46,7 +46,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-### Experiência de trabalho
+### Work experience
 
 [<img align="left" height="94px" width="94px" alt="Santos Port Authority" src="https://www.portodesantos.com.br/wp-content/themes/Tema%20SPA/assets/img/LogoSPA.svg"/>](https://www.portodesantos.com.br/)
 
@@ -57,7 +57,7 @@ Duração: Fevereiro 2023 - Trabalho Atual
 
 <br/>
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <a href="https://github.com/PedroV1dal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrov1dal&theme=dracula&hide_langs_below=1" />
@@ -66,7 +66,7 @@ Duração: Fevereiro 2023 - Trabalho Atual
 <a href="https://github.com/PedroV1dal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrov1dal&show_icons=true&theme=dracula&line_height=27" alt="**PedroVidal** github stats"/>
 </a>
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-PedroVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/pedro-vidal-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.vidal@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.vidal2608@gmail.com)](mailto:pedro.vidal2608@gmail.com)
