@@ -10,8 +10,6 @@
 
 - 💼 Trabalhando como **Estagiário** na <a href="https://www.portodesantos.com.br/">Santos Port Authority</a>
 
-- 📫 How to reach me **pedro.vidal2608@gmail.com**
-
 - ⚡ Fun fact **I try to be funny :)**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
