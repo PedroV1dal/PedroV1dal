@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I try to be funny :)**
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and Data**
 
