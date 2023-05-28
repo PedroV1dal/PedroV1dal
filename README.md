@@ -24,6 +24,7 @@
   <br/>
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node](https://img.shields.io/badge/-React-333333?style=flat&logo=node)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
